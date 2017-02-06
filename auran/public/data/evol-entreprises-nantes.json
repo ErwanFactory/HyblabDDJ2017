@@ -1,0 +1,24 @@
+[
+  { "nom" : "nombre d'entreprises individuelles du secteur numérique à Nantes",
+    "evolution" : [
+      { "2008" : 501},
+      { "2009" : 554},
+      { "2010" : 677},
+      { "2011" : 768},
+      { "2012" : 876},
+      { "2013" : 933},
+      { "2014" : 1092},
+      { "2015" : 1251}
+    ]},
+  { "nom" : "nombre d'entreprises qui emploient des salariés du secteur numérique à Nantes",
+    "evolution" : [
+      { "2008" : 447},
+      { "2009" : 460},
+      { "2010" : 464},
+      { "2011" : 513},
+      { "2012" : 513},
+      { "2013" : 565},
+      { "2014" : 591},
+      { "2015" : 612}
+    ]}
+]
